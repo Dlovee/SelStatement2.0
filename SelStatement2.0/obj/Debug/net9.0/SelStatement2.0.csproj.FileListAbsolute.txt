@@ -1,0 +1,14 @@
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\bin\Debug\net9.0\SelStatement2.0.exe
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\bin\Debug\net9.0\SelStatement2.0.deps.json
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\bin\Debug\net9.0\SelStatement2.0.runtimeconfig.json
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\bin\Debug\net9.0\SelStatement2.0.dll
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\bin\Debug\net9.0\SelStatement2.0.pdb
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\obj\Debug\net9.0\SelStatement2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\obj\Debug\net9.0\SelStatement2.0.AssemblyInfoInputs.cache
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\obj\Debug\net9.0\SelStatement2.0.AssemblyInfo.cs
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\obj\Debug\net9.0\SelStatement2.0.csproj.CoreCompileInputs.cache
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\obj\Debug\net9.0\SelStatement2.0.dll
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\obj\Debug\net9.0\refint\SelStatement2.0.dll
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\obj\Debug\net9.0\SelStatement2.0.pdb
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\obj\Debug\net9.0\SelStatement2.0.genruntimeconfig.cache
+C:\Users\Dlove\OneDrive\Desktop\repos2.0\SelStatement2.0\SelStatement2.0\obj\Debug\net9.0\ref\SelStatement2.0.dll
